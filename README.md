@@ -91,6 +91,8 @@ node server.js
 
 ![CLI preview](/assets/Screenshot%20(213).png)
 
+![Screenshot (214)](https://user-images.githubusercontent.com/109435666/220958366-1f3f2588-f557-4042-841f-2b62c25bf684.png)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contributing
