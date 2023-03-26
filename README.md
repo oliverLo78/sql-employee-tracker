@@ -61,6 +61,10 @@ While building this project I learned to:
 ## Installation
 Add a comment about installing your project. For example that your project will be launched in browser or in the terminal. Now list out the installation requirements: 
 
+## Video walkthrough
+
+![Video Walkthrough](https://drive.google.com/file/d/1HCs0shdaGDc1JnuJO1e_EpKZbSYlempA/view)
+
 1. Code block example
 
 ```
