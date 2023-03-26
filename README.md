@@ -63,7 +63,7 @@ Add a comment about installing your project. For example that your project will 
 
 ## Video walkthrough
 
-[SQL-employee-tracker_ Nov 4, 2022 4_44 PM.webm](https://user-images.githubusercontent.com/109435666/227786327-956b9a75-c8d4-47d2-92c3-3a18180916f1.webm)
+[SQL-employee-tracker_ Nov 4, 2022 4_44 PM.webm.mov.webm](https://user-images.githubusercontent.com/109435666/227786644-fd664e93-339b-4b85-bfd8-29320628452c.webm)
 
 1. Code block example
 
