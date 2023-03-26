@@ -63,7 +63,7 @@ Add a comment about installing your project. For example that your project will 
 
 ## Video walkthrough
 
-![Video Walkthrough](https://drive.google.com/file/d/1HCs0shdaGDc1JnuJO1e_EpKZbSYlempA/view)
+![Video Walkthrough](https://drive.google.com/file/d/1HCs0shdaGDc1JnuJO1e_EpKZbSYlempA/view?usp=sharing)
 
 1. Code block example
 
